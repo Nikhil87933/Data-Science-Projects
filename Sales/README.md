@@ -1,0 +1,4 @@
+Title: Lead Scoring Model for Improved Conversion Rates at X Education
+Description:
+X Education, an online education company catering to industry professionals, is facing challenges with its lead conversion process. Although the company generates a substantial number of leads daily, the current lead conversion rate stands at a modest 30%. To address this issue, the company is keen on implementing a more efficient lead management system by identifying the most promising leads, referred to as 'Hot Leads.'
+The project aims to build a lead scoring model that assigns a score to each lead, indicating the likelihood of conversion into a paying customer. The goal is to focus the sales team's efforts on leads with higher scores, increasing the overall lead conversion rate to the target of 80%. The model will take into account various factors such as lead interactions on the website, form submissions, video views, and past referrals.
