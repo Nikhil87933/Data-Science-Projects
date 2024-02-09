@@ -1,0 +1,9 @@
+Title: Predicting Coupon Acceptance in Driving Scenarios
+
+Introduction:
+
+This project aims to leverage a dataset collected through surveys on Amazon Mechanical Turk to develop a predictive model for coupon acceptance in various driving scenarios. The dataset encompasses diverse information such as destination, current time, weather conditions, passengers in the car, and personal demographics. The survey specifically asks participants whether they would accept a coupon if they were the driver.
+
+The dataset was initially introduced in the paper titled "A Bayesian Framework for Learning Rule Sets for Interpretable Classification" by Wang et al. (2017), highlighting a Bayesian approach to learning interpretable rule sets for classification. The attributes in the dataset include details about the driving scenario, such as destination (e.g., Home, Work), passengers (e.g., Alone, Friend(s), Kid(s)), weather conditions (e.g., Sunny, Rainy, Snowy), temperature, time, type of coupon offered, coupon expiration time, gender, age, marital status, presence of children, education, occupation, income, and frequency of visits to places like bars, coffeehouses, carry-out, and restaurants.
+
+The ultimate goal of this project is to build a predictive model that can accurately forecast whether a driver will accept a coupon based on the given driving scenario. This model could provide valuable insights for businesses looking to optimize their coupon distribution strategies, taking into account various contextual factors that influence individuals' decisions. The interpretability of the model, as emphasized in the Bayesian framework, ensures that the decision-making process can be easily understood and reasoned about, contributing to the practical application of the findings in real-world scenarios.
